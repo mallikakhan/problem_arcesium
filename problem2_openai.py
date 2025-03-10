@@ -11,8 +11,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 nltk.download('punkt')
 
 # Set your OpenAI API key
-# openai.api_key = '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'
-openai.api_key = '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'
+openai.api_key = ''
 openai_model = 'gpt-4o-mini'
 # Load the rental agreement text
 rental_agreement = """
