@@ -1,0 +1,6 @@
+langchain
+openai
+psycopg2
+torch
+transformers
+dotenv
